@@ -1,0 +1,11 @@
+{
+  "source_file_count": 13,
+  "unique_skill_count": 12,
+  "exact_duplicates_removed": 1,
+  "duplicate_removed": {
+    "removed_source": "SKILL (11).md",
+    "retained_source": "SKILL (12).md",
+    "skill_name": "content-creative-super-skill",
+    "sha256": "cf44f0977bb229f1a6ac1b1a31a81ba97aa123158c9fba33237a4e0bb48bb79b"
+  }
+}
