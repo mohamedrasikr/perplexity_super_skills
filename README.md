@@ -9,7 +9,12 @@ This package was deduplicated before publishing:
 - **1 exact duplicate removed** (`content-creative-super-skill` appeared twice)
 - Surviving skill files are preserved as provided; only their repository location and filename were normalized.
 
-> **GitHub:** Add the final repository URL here before publishing/share-out.
+## Useful links
+
+- [Agentic AI Handbook](https://github.com/mohamedrasikr/Agentic-AI-Handbook) — practical resources for building and understanding agentic AI systems.
+- [Advanced Prompt Hub](https://github.com/mohamedrasikr/advanced_prompt_hub) — advanced prompting resources and reusable prompt patterns.
+- [n8n Enterprise Templates](https://github.com/mohamedrasikr/n8n_enterprise_templates) — enterprise-oriented n8n automation templates and workflow examples.
+
 
 ## Repository structure
 
@@ -44,18 +49,18 @@ Each skill lives in its own folder as `SKILL.md`, which makes the collection eas
 
 | Category | Skill | Focus |
 |---|---|---|
-| Core | `token-efficient` | Reduce verbosity and token waste while preserving useful signal |
-| Agentic AI | `ai-agent-super-skill` | Agent architecture, MCP, RAG, orchestration, prompt optimization, deployment |
-| Agentic AI | `agent-security-super-skill` | Prompt injection defense, plugin/skill validation, memory and tool security |
-| Engineering | `dev-engineering-super-skill` | Architecture, frontend, backend, testing, DevOps, security, debugging |
-| Research & Data | `research-knowledge-super-skill` | Research, knowledge graphs, data analysis, statistics, RAG, synthesis |
-| Product | `pm-super-skill` | PRDs, roadmaps, prioritization, agile, metrics, UX research |
-| Growth | `marketing-super-skill` | Campaigns, SEO, content, analytics, positioning, marketing operations |
-| Growth | `sales-super-skill` | Prospecting, account research, call prep, outreach, pipeline, competitive intel |
-| Creative | `content-creative-super-skill` | Visual design, brand, content, images, video, audio, web artifacts |
-| Operations | `operations-cx-super-skill` | CX, ticket triage, escalation, KB, project and operational workflows |
-| Business | `finance-super-skill` | Accounting, reporting, close, reconciliation, valuation, finance analytics |
-| Business | `legal-super-skill` | Contract review, NDA triage, privacy/compliance, risk and legal operations |
+| Core | [`token-efficient`](skills/00-core/token-efficient/SKILL.md) | Reduce verbosity and token waste while preserving useful signal |
+| Agentic AI | [`ai-agent-super-skill`](skills/10-agentic-ai/ai-agent-super-skill/SKILL.md) | Agent architecture, MCP, RAG, orchestration, prompt optimization, deployment |
+| Agentic AI | [`agent-security-super-skill`](skills/10-agentic-ai/agent-security-super-skill/SKILL.md) | Prompt injection defense, plugin/skill validation, memory and tool security |
+| Engineering | [`dev-engineering-super-skill`](skills/20-engineering/dev-engineering-super-skill/SKILL.md) | Architecture, frontend, backend, testing, DevOps, security, debugging |
+| Research & Data | [`research-knowledge-super-skill`](skills/30-research-data/research-knowledge-super-skill/SKILL.md) | Research, knowledge graphs, data analysis, statistics, RAG, synthesis |
+| Product | [`pm-super-skill`](skills/40-product/pm-super-skill/SKILL.md) | PRDs, roadmaps, prioritization, agile, metrics, UX research |
+| Growth | [`marketing-super-skill`](skills/50-growth/marketing-super-skill/SKILL.md) | Campaigns, SEO, content, analytics, positioning, marketing operations |
+| Growth | [`sales-super-skill`](skills/50-growth/sales-super-skill/SKILL.md) | Prospecting, account research, call prep, outreach, pipeline, competitive intel |
+| Creative | [`content-creative-super-skill`](skills/60-creative/content-creative-super-skill/SKILL.md) | Visual design, brand, content, images, video, audio, web artifacts |
+| Operations | [`operations-cx-super-skill`](skills/70-operations/operations-cx-super-skill/SKILL.md) | CX, ticket triage, escalation, KB, project and operational workflows |
+| Business | [`finance-super-skill`](skills/80-business/finance-super-skill/SKILL.md) | Accounting, reporting, close, reconciliation, valuation, finance analytics |
+| Business | [`legal-super-skill`](skills/80-business/legal-super-skill/SKILL.md) | Contract review, NDA triage, privacy/compliance, risk and legal operations |
 
 ## How to use the collection
 
@@ -63,7 +68,6 @@ Each skill lives in its own folder as `SKILL.md`, which makes the collection eas
 2. Open that skill's `SKILL.md` and use it in the Perplexity Computer skill workflow you use for your environment.
 3. Combine domain skills when a workflow crosses boundaries. For example, pair `ai-agent-super-skill` with `agent-security-super-skill` when building production agents.
 4. Use `token-efficient` as a lightweight companion when you want tighter outputs and lower token usage.
-5. Review `DEDUPLICATION_AUDIT.md` for the source-to-repository mapping and duplicate decision.
 
 ## Workshop note
 
