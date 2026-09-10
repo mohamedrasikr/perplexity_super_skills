@@ -98,7 +98,6 @@ Areas I am interested in include:
 - **LinkedIn:** https://www.linkedin.com/in/mohamedrasikr/
 - **Website:** https://mohamedrasik.space
 - **Email:** contact@mohamedrasik.space
-- **Phone / WhatsApp:** +91 80720 56055
 
 When contacting me, include the opportunity, topic, audience, expected format, location/remote preference, and timing if known.
 
