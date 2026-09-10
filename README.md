@@ -2,12 +2,6 @@
 
 A curated collection of reusable **Super Skills for Perplexity Computer**, organized by domain for workshop participants and practitioners building AI-powered workflows.
 
-This package was deduplicated before publishing:
-
-- **13 source files reviewed**
-- **12 unique skills retained**
-- **1 exact duplicate removed** (`content-creative-super-skill` appeared twice)
-- Surviving skill files are preserved as provided; only their repository location and filename were normalized.
 
 ## Useful links
 
