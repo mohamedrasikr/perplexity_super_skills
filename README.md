@@ -75,7 +75,7 @@ Before using them in production, review tool names, model names, platform-specif
 
 ## Agentic AI · GenAI Engineering · Architecture · Speaking · Workshops
 
-If you found the **Agentic AI Handbook** useful and you are building production AI systems, organizing an event, or looking for an engineering collaborator, I would be glad to connect.
+If you found the **Perplexity_super_skills** useful and you are building production AI systems, organizing an event, or looking for an engineering collaborator, I would be glad to connect.
 
 ## Development opportunities
 
@@ -92,21 +92,6 @@ Areas I am interested in include:
 - Guardrails, security, and human-in-the-loop systems
 - AI developer platforms and production architecture
 
-## Speaking and workshops
-
-Example sessions:
-
-- From LLMs to Production AI Agents
-- Agentic RAG: Beyond Retrieve-and-Generate
-- Context Engineering for Reliable Agents
-- Harness Engineering: The Runtime Around the Model
-- Loop Engineering: Planning, Acting, Evaluating, and Stopping
-- Multi-Agent Systems Without the Hype
-- MCP and A2A for Interoperable Agentic Systems
-- Evaluating and Observing Agentic AI in Production
-- AI-Native Product Management
-
-Sessions can be adapted for engineering teams, architecture groups, product organizations, meetups, webinars, conferences, podcasts, and internal learning programs.
 
 ## Contact
 
@@ -120,4 +105,4 @@ When contacting me, include the opportunity, topic, audience, expected format, l
 ---
 
 **Mohamed Rasik**  
-Creator & Maintainer — *Agentic AI Handbook*
+Creator & Maintainer — *Perplexity_super_skills*
