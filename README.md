@@ -95,7 +95,7 @@ Areas I am interested in include:
 
 ## Contact
 
-- **LinkedIn connect with me:** https://www.linkedin.com/in/mohamedrasikr/
+- **connect with me on LinkedIn:** https://www.linkedin.com/in/mohamedrasikr/
 - **Website:** https://mohamedrasik.space
 
 
