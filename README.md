@@ -95,9 +95,9 @@ Areas I am interested in include:
 
 ## Contact
 
-- **LinkedIn:** https://www.linkedin.com/in/mohamedrasikr/
+- **LinkedIn connect with me:** https://www.linkedin.com/in/mohamedrasikr/
 - **Website:** https://mohamedrasik.space
-- **Email:** contact@mohamedrasik.space
+
 
 When contacting me, include the opportunity, topic, audience, expected format, location/remote preference, and timing if known.
 
